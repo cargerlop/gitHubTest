@@ -1,5 +1,7 @@
 package gitHubTest;
 
+import java.lang.*;
+
 public class GitHubTest {
 
 	public static void main(String[] args) {
